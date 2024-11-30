@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/action/personal_modifyAction.jsp" value="file://$PROJECT_DIR$/src/main/webapp/action" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/page/list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/page" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/page/personal.jsp" value="file://$PROJECT_DIR$/src/main/webapp/page" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/page/personal_cal.jsp" value="file://$PROJECT_DIR$/src/main/webapp/page" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/upload/register_process.jsp" value="file://$PROJECT_DIR$/src/main/webapp/upload" />
+      </map>
+    </option>
+  </component>
+</project>
